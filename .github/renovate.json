@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github>ladzaretti/mc-compare:mc"]
+  "extends": ["github>ladzaretti/mc-compare:mc"],
   "enabledManagers": ["npm"]
 }
 
