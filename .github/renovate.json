@@ -2,5 +2,6 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["github>ladzaretti/mc-compare:mc","group:allNonMajor"],
   "enabledManagers": ["npm"]
+  
 }
 
