@@ -1305,10 +1305,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:18.14.6":
+"@types/node@npm:*":
   version: 18.14.6
   resolution: "@types/node@npm:18.14.6"
   checksum: 2f88f482cabadc6dbddd627a1674239e68c3c9beab56eb4ae2309fb96fd17fc3a509d99b0309bafe13b58529574f49ecf3a583f2ebe2896dd32fe4be436dc96e
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:20.4.2":
+  version: 20.4.2
+  resolution: "@types/node@npm:20.4.2"
+  checksum: 99e544ea7560d51f01f95627fc40394c24a13da8f041121a0da13e4ef0a2aa332932eaf9a5e8d0e30d1c07106e96a183be392cbba62e8cf0bf6a085d5c0f4149
   languageName: node
   linkType: hard
 
@@ -2444,7 +2451,7 @@ __metadata:
     "@tsconfig/node18-strictest-esm": 1.0.1
     "@types/eslint": 8.21.1
     "@types/jest": 29.4.0
-    "@types/node": 18.14.6
+    "@types/node": 20.4.2
     "@types/prettier": 2.7.2
     "@typescript-eslint/eslint-plugin": 5.54.1
     "@typescript-eslint/parser": 5.54.1
