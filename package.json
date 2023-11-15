@@ -35,7 +35,7 @@
     "@typescript-eslint/eslint-plugin": "5.54.1",
     "@typescript-eslint/parser": "5.54.1",
     "@vercel/ncc": "0.36.1",
-    "@yarnpkg/sdks": "2.7.0",
+    "@yarnpkg/sdks": "3.1.0",
     "eslint": "8.35.0",
     "eslint-config-prettier": "8.7.0",
     "fast-check": "3.7.0",
